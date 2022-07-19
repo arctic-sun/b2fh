@@ -4,6 +4,29 @@ Binary to formatted (delphi\C++) hex convertor
 <img width="674" alt="scr1" src="https://user-images.githubusercontent.com/109481884/179638020-cc88713e-d6ac-4860-acda-3489ca88cc2e.png">
 
 
+	//
+	// *****************************************
+	//  b2fh v1.0 | github.com/arctic-sun       
+	// *****************************************
+	// FileName: icon-mono-sm.png
+	// Size: 3663 bytes
+	// MD5: 62a9d363569975d191bfcdbcb43f24f5
+	//
+
+	const
+	  BuffData: array[0..3662] of Byte = (
+	    $89, $50, $4E, $47, $0D, $0A, $1A, $0A, 
+	    $00, $00, $00, $0D, $49, $48, $44, $52, 
+	    $00, $00, $00, $C0, $00, $00, $00, $C0, 
+	    $08, $06, $00, $00, $00, $52, $DC, $6C, 
+	    $07, $00, $00, $00, $19, $74, $45, $58, 
+	    $74, $53, $6F, $66, $74, $77, $61, $72, 
+	    $65, $00, $41, $64, $6F, $62, $65, $20, 
+	    $49, $6D, $61, $67, $65, $52, $65, $61, 
+	    .....
+    
+
+
 Description
 -----------
 
