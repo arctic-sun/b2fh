@@ -1,7 +1,7 @@
 # b2fh
 Binary to formatted (delphi\C++) hex convertor
 
-<img width="674" alt="scr1" src="https://user-images.githubusercontent.com/109481884/179638020-cc88713e-d6ac-4860-acda-3489ca88cc2e.png">
+<img width="674" alt="scr1" src="https://user-images.githubusercontent.com/109481884/179638864-d5941c78-a32e-40b3-9cb4-f2c1fd14a050.png">
 
 Pascal sample result
 
