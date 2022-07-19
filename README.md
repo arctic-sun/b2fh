@@ -1,5 +1,5 @@
 # b2fh
-Binary to formatted (pascal\c++) hex convertor
+Binary to formatted (pascal\c++) hex byte array convertor
 
 <img width="674" alt="scr1" src="https://user-images.githubusercontent.com/109481884/179638864-d5941c78-a32e-40b3-9cb4-f2c1fd14a050.png">
 
